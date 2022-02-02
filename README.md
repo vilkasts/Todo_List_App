@@ -1,1 +1,1 @@
-Simple Todo application.
+Simple Todo application. Our first SPA. Just for a start
